@@ -14,4 +14,6 @@ This is Chinese MOOC, in this course, I learn the mathematic basis of Mechine Le
 
 6.HMM
 
-In each file, I upload some interesting wheels of each topic.
+In each file, there are some wheels of each topic, some of them are very interesting.
+
+
